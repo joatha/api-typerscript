@@ -1,2 +1,3 @@
 # api-typerscript
-Created with CodeSandbox
+Desenvolvendo um modelo de API simnples, para uso futuro em projetos. 
+
